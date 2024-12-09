@@ -21,5 +21,5 @@ Il gioco si svolge in un ambiente 2D in cui il giocatore controlla una biciclett
 
 ## Come giocare
 
-Visita il sito  <a href="https://fb-bike/game">fb-bike.it</a>
+Visita il sito  <a href="https://fb-bike.it/game">fb-bike.it</a>
 
